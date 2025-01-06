@@ -13,6 +13,17 @@ namespace Curso
             return Quantidade * Preco;         
         }
 
+        public void ProdutoEntrada(int quantidade) 
+        {
+            Quantidade += quantidade;
+        
+        }
+
+        public void ProdutoSaida(int quantidade) 
+        {
+            Quantidade -= quantidade;
+        }
+
         public override string ToString()
         {
             return Nome 

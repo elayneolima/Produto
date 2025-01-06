@@ -12,3 +12,4 @@ C:\ProjetosPratica\Curso\Curso\obj\Debug\net8.0\refint\Curso.dll
 C:\ProjetosPratica\Curso\Curso\obj\Debug\net8.0\Curso.pdb
 C:\ProjetosPratica\Curso\Curso\obj\Debug\net8.0\Curso.genruntimeconfig.cache
 C:\ProjetosPratica\Curso\Curso\obj\Debug\net8.0\ref\Curso.dll
+C:\ProjetosPratica\Curso\Curso\obj\Debug\net8.0\Curso.sourcelink.json
